@@ -1,0 +1,20 @@
+.main {
+  background-color: white;
+  width: 100%;
+  display: flex;
+  flex-direction: column;
+  gap: 50px;
+  padding-left: 20px;
+  padding-right: 20px;
+}
+.atricle {
+  background-color: white;
+  width: 100%;
+}
+.atricle-title {
+  background-color: white;
+}
+.atricle-description {
+  background-color: white;
+  font-size: 18px;
+}

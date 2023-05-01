@@ -1,0 +1,24 @@
+/* .container-navbar {
+  max-width: 100px;
+} */
+.navbar {
+  max-width: 150px;
+  min-height: 100vh;
+  background-color: white;
+}
+.navbar-list {
+  display: flex;
+  flex-direction: column;
+  gap: 20px;
+  padding: 20px;
+  background-color: white;
+}
+.navbar-item {
+  list-style-type: none;
+  background-color: white;
+}
+.navbar-link {
+  background-color: white;
+  text-decoration: none;
+  color: black;
+}

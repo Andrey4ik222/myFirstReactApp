@@ -1,0 +1,19 @@
+.header {
+  padding: 25px;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  background-color: white;
+}
+.header-title {
+  background-color: white;
+}
+.header-search-wrapper {
+  background-color: white;
+}
+#search {
+  padding: 5px;
+  margin-right: 25px;
+  background-color: white;
+  border: 1px solid black;
+}
