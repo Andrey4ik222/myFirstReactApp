@@ -1,10 +1,10 @@
 {
   "files": {
-    "main.css": "/myFirstReactApp/static/css/main.bf043d53.css",
-    "main.js": "/myFirstReactApp/static/js/main.0f7a7c4a.js",
-    "index.html": "/myFirstReactApp/index.html",
-    "main.bf043d53.css.map": "/myFirstReactApp/static/css/main.bf043d53.css.map",
-    "main.0f7a7c4a.js.map": "/myFirstReactApp/static/js/main.0f7a7c4a.js.map"
+    "main.css": "/static/css/main.bf043d53.css",
+    "main.js": "/static/js/main.0f7a7c4a.js",
+    "index.html": "/index.html",
+    "main.bf043d53.css.map": "/static/css/main.bf043d53.css.map",
+    "main.0f7a7c4a.js.map": "/static/js/main.0f7a7c4a.js.map"
   },
   "entrypoints": [
     "static/css/main.bf043d53.css",
